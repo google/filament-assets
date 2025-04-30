@@ -1,0 +1,1 @@
+[{"name": "MSAA", "base": {"viewer.cameraFocusDistance": 0, "view.postProcessingEnabled": true, "view.dithering": "NONE", "view.msaa.enabled": true}}]

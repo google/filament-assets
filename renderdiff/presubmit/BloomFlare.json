@@ -1,0 +1,238 @@
+{
+"view": {
+"antiAliasing": "FXAA",
+"msaa": {
+"enabled": false,
+"sampleCount": 4,
+"customResolve": false
+},
+"taa": {
+"filterWidth": 1,
+"feedback": 0.12,
+"lodBias": -1,
+"sharpness": 0,
+"enabled": false,
+"upscaling": false,
+"filterHistory": true,
+"filterInput": true,
+"useYCoCg": false,
+"boxType": "AABB",
+"boxClipping": "ACCURATE",
+"jitterPattern": "HALTON_23_X16",
+"varianceGamma": 1,
+"preventFlickering": false,
+"historyReprojection": true
+},
+"dsr": {
+"minScale": [0.5, 0.5],
+"maxScale": [1, 1],
+"sharpness": 0.9,
+"enabled": false,
+"homogeneousScaling": false,
+"quality": "LOW"
+},
+"colorGrading": {
+"enabled": true,
+"colorspace": Rec709-sRGB-D65,
+"quality": "MEDIUM",
+"toneMapping": "ACES_LEGACY",
+"genericToneMapper": {
+"contrast": 1.55,
+"midGrayIn": 0.18,
+"midGrayOut": 0.215,
+"hdrMax": 10
+},
+"agxToneMapper": {
+"look": "NONE",
+},
+"luminanceScaling": false,
+"gamutMapping": false,
+"exposure": 0,
+"nightAdaptation": 0,
+"temperature": 0,
+"tint": 0,
+"outRed": [1, 0, 0],
+"outGreen": [0, 1, 0],
+"outBlue": [0, 0, 1],
+"shadows": [1, 1, 1, 0],
+"midtones": [1, 1, 1, 0],
+"highlights": [1, 1, 1, 0],
+"ranges": [0, 0.333, 0.55, 1],
+"contrast": 1,
+"vibrance": 1,
+"saturation": 1,
+"slope": [1, 1, 1],
+"offset": [0, 0, 0],
+"power": [1, 1, 1],
+"gamma": [1, 1, 1],
+"midPoint": [1, 1, 1],
+"scale": [1, 1, 1],
+"linkedCurves": false
+},
+"ssao": {
+"radius": 0.3,
+"power": 1,
+"bias": 0.0005,
+"resolution": 0.5,
+"intensity": 1,
+"bilateralThreshold": 0.05,
+"quality": "LOW",
+"lowPassFilter": "MEDIUM",
+"upsampling": "LOW",
+"enabled": false,
+"bentNormals": false,
+"minHorizonAngleRad": 0,
+"ssct": {
+"lightConeRad": 1,
+"shadowDistance": 0.3,
+"contactDistanceMax": 1,
+"intensity": 0.8,
+"lightDirection": [0, -1, 0],
+"depthBias": 0.01,
+"depthSlopeBias": 0.01,
+"sampleCount": 4,
+"rayCount": 1,
+"enabled": false
+}
+},
+"screenSpaceReflections": {
+"thickness": 0.1,
+"bias": 0.01,
+"maxDistance": 3,
+"stride": 2,
+"enabled": false
+},
+"bloom": {
+"strength": 0.1,
+"resolution": 384,
+"levels": 6,
+"blendMode": "ADD",
+"threshold": true,
+"enabled": true,
+"highlight": 1000,
+"quality": "LOW",
+"lensFlare": true,
+"starburst": true,
+"chromaticAberration": 0.005,
+"ghostCount": 4,
+"ghostSpacing": 0.6,
+"ghostThreshold": 10,
+"haloThickness": 0.1,
+"haloRadius": 0.4,
+"haloThreshold": 10
+},
+"fog": {
+"distance": 0,
+"cutOffDistance": inf,
+"maximumOpacity": 1,
+"height": 0,
+"heightFalloff": 1,
+"color": [1, 1, 1],
+"density": 0.1,
+"inScatteringStart": 0,
+"inScatteringSize": -1,
+"fogColorFromIbl": false,
+"enabled": false
+},
+"dof": {
+"cocScale": 1,
+"cocAspectRatio": 1,
+"maxApertureDiameter": 0.01,
+"enabled": false,
+"filter": "MEDIAN",
+"nativeResolution": false,
+"foregroundRingCount": 0,
+"backgroundRingCount": 0,
+"fastGatherRingCount": 0,
+"maxForegroundCOC": 0,
+"maxBackgroundCOC": 0
+},
+"vignette": {
+"midPoint": 0.5,
+"roundness": 0.5,
+"feather": 0.5,
+"color": [0, 0, 0, 1],
+"enabled": false
+},
+"dithering": "NONE",
+"renderQuality": {
+"hdrColorBuffer": "HIGH"
+},
+"dynamicLighting": {
+"zLightNear": 5,
+"zLightFar": 100
+},
+"shadowType": "PCF",
+"vsmShadowOptions": {
+"anisotropy": 0,
+"mipmapping": false,
+"msaaSamples": 1,
+"highPrecision": false,
+"minVarianceScale": 0.5,
+"lightBleedReduction": 0.15
+},
+"guardBand": {
+"enabled": false
+},
+"stereoscopicOptions": {
+"enabled": false
+},
+"postProcessingEnabled": true
+},
+"material": {},
+"lighting": {
+"enableShadows": true,
+"enableSunlight": true,
+"shadowOptions": {
+"vsm": {
+"elvsm": false,
+"blurWidth": 0
+},
+"mapSize": 1024,
+"shadowCascades": 1,
+"cascadeSplitPositions": [0.125, 0.25, 0.5]
+"constantBias": 0.001,
+"normalBias": 1,
+"shadowFar": 0,
+"shadowNearHint": 1,
+"shadowFarHint": 100,
+"stable": false,
+"lispsm": true,
+"polygonOffsetConstant": 0.5,
+"polygonOffsetSlope": 2,
+"screenSpaceContactShadows": false,
+"stepCount": 8,
+"maxShadowDistance": 0.3,
+"shadowBulbRadius": 0.02,
+"transform": [0, 0, 0, 1],
+},
+"softShadowOptions": {
+"penumbraScale": 1,
+"penumbraRatioScale": 1
+},
+"sunlightIntensity": 100000,
+"sunlightHaloSize": 10,
+"sunlightHaloFalloff": 80,
+"sunlightAngularRadius": 1.9,
+"sunlightDirection": [0.6, -1, -0.8],
+"sunlightColor": [0.955105, 0.827571, 0.767769],
+"iblIntensity": 30000,
+"iblRotation": 0
+},
+"viewer": {
+"cameraAperture": 16,
+"cameraSpeed": 125,
+"cameraISO": 100,
+"cameraNear": 0.1,
+"cameraFar": 100,
+"cameraEyeOcularDistance": 0,
+"cameraEyeToeIn": 0,
+"groundShadowStrength": 0.75,
+"groundPlaneEnabled": false,
+"skyboxEnabled": true,
+"backgroundColor": [0, 0, 0],
+"cameraFocalLength": 28,
+"cameraFocusDistance": 0,
+"autoInstancingEnabled": false,
+"autoScaleEnabled": true
+}}

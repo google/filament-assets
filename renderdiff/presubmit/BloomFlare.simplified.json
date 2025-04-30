@@ -1,0 +1,1 @@
+[{"name": "BloomFlare", "base": {"viewer.cameraFocusDistance": 0, "view.postProcessingEnabled": true, "view.dithering": "NONE", "view.bloom.enabled": true, "view.bloom.lensFlare": true}}]
