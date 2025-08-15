@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BloomFlare.opengl.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.opengl.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.vulkan.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "BloomFlare.opengl.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.vulkan.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.opengl.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "BloomFlare.vulkan.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "BloomFlare.vulkan.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  }
+]
