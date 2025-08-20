@@ -70,6 +70,7 @@
 "linkedCurves": false
 },
 "ssao": {
+"aoType": "SAO",
 "radius": 0.3,
 "power": 1,
 "bias": 0.0005,
@@ -93,6 +94,11 @@
 "sampleCount": 4,
 "rayCount": 1,
 "enabled": false
+},
+"gtao": {
+"sampleSliceCount": 4,
+"sampleStepsPerSlice": 3,
+"thicknessHeuristic": 0.004
 }
 },
 "screenSpaceReflections": {
