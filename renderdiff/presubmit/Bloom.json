@@ -98,7 +98,10 @@
 "gtao": {
 "sampleSliceCount": 4,
 "sampleStepsPerSlice": 3,
-"thicknessHeuristic": 0.004
+"thicknessHeuristic": 0.004,
+"useVisibilityBitmasks": false,
+"constThickness": 0.5,
+"linearThickness": false
 }
 },
 "screenSpaceReflections": {
@@ -117,7 +120,7 @@
 "enabled": true,
 "highlight": 1000,
 "quality": "LOW",
-"lensFlare": true,
+"lensFlare": false,
 "starburst": true,
 "chromaticAberration": 0.005,
 "ghostCount": 4,
