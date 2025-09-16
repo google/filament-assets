@@ -1,11 +1,26 @@
 [
   {
-    "name": "BloomFlare.opengl.lucy",
+    "name": "MSAA.vulkan.Duck",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.opengl.lucy",
+    "name": "MSAA.opengl.BoxTextured",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.opengl.Box",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.vulkan.Box",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.vulkan.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
@@ -15,27 +30,62 @@
     "result_code": 0
   },
   {
-    "name": "BloomFlare.opengl.DamagedHelmet",
+    "name": "MSAA.opengl.lucy",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.vulkan.DamagedHelmet",
+    "name": "MSAA.opengl.Duck",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.opengl.DamagedHelmet",
+    "name": "Bloom.vulkan.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "BloomFlare.vulkan.lucy",
+    "name": "Bloom.opengl.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "BloomFlare.vulkan.DamagedHelmet",
+    "name": "MSAA.webgpu.BoxTextured",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.webgpu.Box",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.webgpu.Duck",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.webgpu.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.opengl.FlightHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.vulkan.FlightHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Bloom.webgpu.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.webgpu.FlightHelmet",
     "result": "ok",
     "result_code": 0
   }
