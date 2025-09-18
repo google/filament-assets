@@ -80,7 +80,7 @@
 "quality": "LOW",
 "lowPassFilter": "MEDIUM",
 "upsampling": "LOW",
-"enabled": false,
+"enabled": true,
 "bentNormals": false,
 "minHorizonAngleRad": 0,
 "ssct": {

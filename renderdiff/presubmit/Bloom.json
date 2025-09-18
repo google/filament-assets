@@ -240,8 +240,8 @@
 "groundPlaneEnabled": false,
 "skyboxEnabled": true,
 "backgroundColor": [0, 0, 0],
-"cameraFocalLength": 28,
-"cameraFocusDistance": 0,
+"cameraFocalLength": 35,
+"cameraFocusDistance": 10,
 "autoInstancingEnabled": false,
 "autoScaleEnabled": true
 }}
