@@ -80,7 +80,7 @@
 "quality": "LOW",
 "lowPassFilter": "MEDIUM",
 "upsampling": "LOW",
-"enabled": false,
+"enabled": true,
 "bentNormals": false,
 "minHorizonAngleRad": 0,
 "ssct": {
@@ -117,7 +117,7 @@
 "levels": 6,
 "blendMode": "ADD",
 "threshold": true,
-"enabled": true,
+"enabled": false,
 "highlight": 1000,
 "quality": "LOW",
 "lensFlare": false,

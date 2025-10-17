@@ -15,11 +15,6 @@
     "result_code": 0
   },
   {
-    "name": "MSAA.opengl.lucy",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "MSAA.vulkan.BoxTextured",
     "result": "ok",
     "result_code": 0
@@ -30,12 +25,7 @@
     "result_code": 0
   },
   {
-    "name": "MSAA.vulkan.Duck",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "MSAA.opengl.Duck",
+    "name": "MSAA.opengl.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -45,17 +35,12 @@
     "result_code": 0
   },
   {
-    "name": "MSAA.webgpu.Duck",
+    "name": "MSAA.webgpu.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "Bloom.vulkan.DamagedHelmet",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "MSAA.webgpu.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
@@ -70,12 +55,32 @@
     "result_code": 0
   },
   {
+    "name": "SSAO.opengl.Duck",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.opengl.TransmissionRoughnessTest",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSAO.opengl.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "MSAA.vulkan.FlightHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.opengl.FlightHelmet",
+    "name": "Transimssion.vulkan.TransmissionRoughnessTest",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSAO.vulkan.Duck",
     "result": "ok",
     "result_code": 0
   },
@@ -85,7 +90,47 @@
     "result_code": 0
   },
   {
+    "name": "SSAO.vulkan.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.opengl.IridescentDishWithOlives",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.opengl.FlightHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.vulkan.IridescentDishWithOlives",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "MSAA.webgpu.FlightHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSAO.webgpu.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSAO.webgpu.Duck",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.webgpu.IridescentDishWithOlives",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.webgpu.TransmissionRoughnessTest",
     "result": "ok",
     "result_code": 0
   }
