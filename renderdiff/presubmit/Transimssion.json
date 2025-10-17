@@ -109,7 +109,7 @@
 "bias": 0.01,
 "maxDistance": 3,
 "stride": 2,
-"enabled": false
+"enabled": true
 },
 "bloom": {
 "strength": 0.1,
@@ -117,7 +117,7 @@
 "levels": 6,
 "blendMode": "ADD",
 "threshold": true,
-"enabled": true,
+"enabled": false,
 "highlight": 1000,
 "quality": "LOW",
 "lensFlare": false,
@@ -240,7 +240,7 @@
 "groundPlaneEnabled": false,
 "skyboxEnabled": true,
 "backgroundColor": [0, 0, 0],
-"cameraFocalLength": 35,
+"cameraFocalLength": 52,
 "cameraFocusDistance": 10,
 "autoInstancingEnabled": false,
 "autoScaleEnabled": true
