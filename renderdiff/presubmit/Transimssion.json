@@ -109,7 +109,7 @@
 "bias": 0.01,
 "maxDistance": 3,
 "stride": 2,
-"enabled": true
+"enabled": false
 },
 "bloom": {
 "strength": 0.1,
