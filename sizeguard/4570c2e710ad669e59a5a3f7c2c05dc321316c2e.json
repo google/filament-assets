@@ -1,0 +1,636 @@
+[
+  {
+    "name": "filamat-android-release.aar",
+    "size": 10523793,
+    "content": [
+      {
+        "name": "classes.jar",
+        "size": 25197
+      },
+      {
+        "name": "jni/arm64-v8a/libfilamat-jni.so",
+        "size": 7686944
+      },
+      {
+        "name": "jni/armeabi-v7a/libfilamat-jni.so",
+        "size": 5409332
+      },
+      {
+        "name": "jni/x86/libfilamat-jni.so",
+        "size": 8007364
+      },
+      {
+        "name": "jni/x86_64/libfilamat-jni.so",
+        "size": 8126000
+      }
+    ]
+  },
+  {
+    "name": "filament-android-release-linux.tgz",
+    "size": 57557163,
+    "content": [
+      {
+        "name": "filament/lib/arm64-v8a/libabseil.a",
+        "size": 2225990
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libbackend.a",
+        "size": 2432126
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libbasis_transcoder.a",
+        "size": 376988
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libbluevk.a",
+        "size": 196432
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libcamutils.a",
+        "size": 43960
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libcivetweb.a",
+        "size": 286662
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libdracodec.a",
+        "size": 2000276
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libfilabridge.a",
+        "size": 75312
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libfilaflat.a",
+        "size": 36818
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libfilamat.a",
+        "size": 26035406
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libfilament-iblprefilter.a",
+        "size": 94198
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libfilament.a",
+        "size": 3103698
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libfilameshio.a",
+        "size": 30980
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libgeometry.a",
+        "size": 308418
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libgltfio_core.a",
+        "size": 1003344
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libibl-lite.a",
+        "size": 199778
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libibl.a",
+        "size": 245942
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libimage.a",
+        "size": 85504
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libktxreader.a",
+        "size": 42756
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libmeshoptimizer.a",
+        "size": 114226
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libmikktspace.a",
+        "size": 20822
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libperfetto.a",
+        "size": 5416254
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libshaders.a",
+        "size": 136466
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libsmol-v.a",
+        "size": 42764
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libstb.a",
+        "size": 122454
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libuberarchive.a",
+        "size": 2420796
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libuberzlib.a",
+        "size": 28408
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libutils.a",
+        "size": 317992
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libviewer.a",
+        "size": 465854
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libvkshaders.a",
+        "size": 2478
+      },
+      {
+        "name": "filament/lib/arm64-v8a/libzstd.a",
+        "size": 674506
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libabseil.a",
+        "size": 2001552
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libbackend.a",
+        "size": 2302060
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libbasis_transcoder.a",
+        "size": 327150
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libbluevk.a",
+        "size": 97644
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libcamutils.a",
+        "size": 46908
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libcivetweb.a",
+        "size": 191842
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libdracodec.a",
+        "size": 1904000
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libfilabridge.a",
+        "size": 72250
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libfilaflat.a",
+        "size": 38468
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libfilamat.a",
+        "size": 22998602
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libfilament-iblprefilter.a",
+        "size": 82722
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libfilament.a",
+        "size": 3187422
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libfilameshio.a",
+        "size": 29380
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libgeometry.a",
+        "size": 271392
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libgltfio_core.a",
+        "size": 934086
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libibl-lite.a",
+        "size": 216310
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libibl.a",
+        "size": 270774
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libimage.a",
+        "size": 73598
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libktxreader.a",
+        "size": 38058
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libmeshoptimizer.a",
+        "size": 89498
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libmikktspace.a",
+        "size": 15410
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libperfetto.a",
+        "size": 5130470
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libshaders.a",
+        "size": 135698
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libsmol-v.a",
+        "size": 32312
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libstb.a",
+        "size": 90930
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libuberarchive.a",
+        "size": 2420612
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libuberzlib.a",
+        "size": 26404
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libutils.a",
+        "size": 312960
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libviewer.a",
+        "size": 365618
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libvkshaders.a",
+        "size": 2282
+      },
+      {
+        "name": "filament/lib/armeabi-v7a/libzstd.a",
+        "size": 521182
+      },
+      {
+        "name": "filament/lib/libSPIRV-Tools-diff.a",
+        "size": 289964
+      },
+      {
+        "name": "filament/lib/libSPIRV-Tools-link.a",
+        "size": 122938
+      },
+      {
+        "name": "filament/lib/libSPIRV-Tools-lint.a",
+        "size": 171422
+      },
+      {
+        "name": "filament/lib/libSPIRV-Tools-opt.a",
+        "size": 8048130
+      },
+      {
+        "name": "filament/lib/libSPIRV-Tools-reduce.a",
+        "size": 511604
+      },
+      {
+        "name": "filament/lib/libSPIRV-Tools-shared.so",
+        "size": 6937572
+      },
+      {
+        "name": "filament/lib/libSPIRV-Tools.a",
+        "size": 3235378
+      },
+      {
+        "name": "filament/lib/x86/libabseil.a",
+        "size": 1836516
+      },
+      {
+        "name": "filament/lib/x86/libbackend.a",
+        "size": 2055302
+      },
+      {
+        "name": "filament/lib/x86/libbasis_transcoder.a",
+        "size": 382964
+      },
+      {
+        "name": "filament/lib/x86/libbluevk.a",
+        "size": 130672
+      },
+      {
+        "name": "filament/lib/x86/libcamutils.a",
+        "size": 43136
+      },
+      {
+        "name": "filament/lib/x86/libcivetweb.a",
+        "size": 233782
+      },
+      {
+        "name": "filament/lib/x86/libdracodec.a",
+        "size": 1749420
+      },
+      {
+        "name": "filament/lib/x86/libfilabridge.a",
+        "size": 65840
+      },
+      {
+        "name": "filament/lib/x86/libfilaflat.a",
+        "size": 34800
+      },
+      {
+        "name": "filament/lib/x86/libfilamat.a",
+        "size": 21262074
+      },
+      {
+        "name": "filament/lib/x86/libfilament-iblprefilter.a",
+        "size": 80146
+      },
+      {
+        "name": "filament/lib/x86/libfilament.a",
+        "size": 2909322
+      },
+      {
+        "name": "filament/lib/x86/libfilameshio.a",
+        "size": 25796
+      },
+      {
+        "name": "filament/lib/x86/libgeometry.a",
+        "size": 308058
+      },
+      {
+        "name": "filament/lib/x86/libgltfio_core.a",
+        "size": 909204
+      },
+      {
+        "name": "filament/lib/x86/libibl-lite.a",
+        "size": 198798
+      },
+      {
+        "name": "filament/lib/x86/libibl.a",
+        "size": 243942
+      },
+      {
+        "name": "filament/lib/x86/libimage.a",
+        "size": 76152
+      },
+      {
+        "name": "filament/lib/x86/libktxreader.a",
+        "size": 48410
+      },
+      {
+        "name": "filament/lib/x86/libmeshoptimizer.a",
+        "size": 118942
+      },
+      {
+        "name": "filament/lib/x86/libmikktspace.a",
+        "size": 27042
+      },
+      {
+        "name": "filament/lib/x86/libperfetto.a",
+        "size": 4363992
+      },
+      {
+        "name": "filament/lib/x86/libshaders.a",
+        "size": 135614
+      },
+      {
+        "name": "filament/lib/x86/libsmol-v.a",
+        "size": 36856
+      },
+      {
+        "name": "filament/lib/x86/libstb.a",
+        "size": 107682
+      },
+      {
+        "name": "filament/lib/x86/libuberarchive.a",
+        "size": 2420392
+      },
+      {
+        "name": "filament/lib/x86/libuberzlib.a",
+        "size": 24784
+      },
+      {
+        "name": "filament/lib/x86/libutils.a",
+        "size": 259052
+      },
+      {
+        "name": "filament/lib/x86/libviewer.a",
+        "size": 384814
+      },
+      {
+        "name": "filament/lib/x86/libvkshaders.a",
+        "size": 2058
+      },
+      {
+        "name": "filament/lib/x86/libzstd.a",
+        "size": 759078
+      },
+      {
+        "name": "filament/lib/x86_64/libabseil.a",
+        "size": 2089992
+      },
+      {
+        "name": "filament/lib/x86_64/libbackend.a",
+        "size": 2405924
+      },
+      {
+        "name": "filament/lib/x86_64/libbasis_transcoder.a",
+        "size": 399736
+      },
+      {
+        "name": "filament/lib/x86_64/libbluevk.a",
+        "size": 174568
+      },
+      {
+        "name": "filament/lib/x86_64/libcamutils.a",
+        "size": 51248
+      },
+      {
+        "name": "filament/lib/x86_64/libcivetweb.a",
+        "size": 294390
+      },
+      {
+        "name": "filament/lib/x86_64/libdracodec.a",
+        "size": 1985742
+      },
+      {
+        "name": "filament/lib/x86_64/libfilabridge.a",
+        "size": 76720
+      },
+      {
+        "name": "filament/lib/x86_64/libfilaflat.a",
+        "size": 38394
+      },
+      {
+        "name": "filament/lib/x86_64/libfilamat.a",
+        "size": 26703758
+      },
+      {
+        "name": "filament/lib/x86_64/libfilament-iblprefilter.a",
+        "size": 94006
+      },
+      {
+        "name": "filament/lib/x86_64/libfilament.a",
+        "size": 3223852
+      },
+      {
+        "name": "filament/lib/x86_64/libfilameshio.a",
+        "size": 29804
+      },
+      {
+        "name": "filament/lib/x86_64/libgeometry.a",
+        "size": 354368
+      },
+      {
+        "name": "filament/lib/x86_64/libgltfio_core.a",
+        "size": 1067496
+      },
+      {
+        "name": "filament/lib/x86_64/libibl-lite.a",
+        "size": 228498
+      },
+      {
+        "name": "filament/lib/x86_64/libibl.a",
+        "size": 282998
+      },
+      {
+        "name": "filament/lib/x86_64/libimage.a",
+        "size": 89072
+      },
+      {
+        "name": "filament/lib/x86_64/libktxreader.a",
+        "size": 75500
+      },
+      {
+        "name": "filament/lib/x86_64/libmeshoptimizer.a",
+        "size": 137682
+      },
+      {
+        "name": "filament/lib/x86_64/libmikktspace.a",
+        "size": 25958
+      },
+      {
+        "name": "filament/lib/x86_64/libperfetto.a",
+        "size": 5321318
+      },
+      {
+        "name": "filament/lib/x86_64/libshaders.a",
+        "size": 136442
+      },
+      {
+        "name": "filament/lib/x86_64/libsmol-v.a",
+        "size": 48108
+      },
+      {
+        "name": "filament/lib/x86_64/libstb.a",
+        "size": 130998
+      },
+      {
+        "name": "filament/lib/x86_64/libuberarchive.a",
+        "size": 2420732
+      },
+      {
+        "name": "filament/lib/x86_64/libuberzlib.a",
+        "size": 28704
+      },
+      {
+        "name": "filament/lib/x86_64/libutils.a",
+        "size": 306512
+      },
+      {
+        "name": "filament/lib/x86_64/libviewer.a",
+        "size": 511452
+      },
+      {
+        "name": "filament/lib/x86_64/libvkshaders.a",
+        "size": 2422
+      },
+      {
+        "name": "filament/lib/x86_64/libzstd.a",
+        "size": 761714
+      }
+    ]
+  },
+  {
+    "name": "filament-android-release.aar",
+    "size": 5272381,
+    "content": [
+      {
+        "name": "classes.jar",
+        "size": 234163
+      },
+      {
+        "name": "jni/arm64-v8a/libfilament-jni.so",
+        "size": 3437400
+      },
+      {
+        "name": "jni/armeabi-v7a/libfilament-jni.so",
+        "size": 2600504
+      },
+      {
+        "name": "jni/x86/libfilament-jni.so",
+        "size": 3710320
+      },
+      {
+        "name": "jni/x86_64/libfilament-jni.so",
+        "size": 3614384
+      }
+    ]
+  },
+  {
+    "name": "filament-utils-android-release.aar",
+    "size": 1759249,
+    "content": [
+      {
+        "name": "classes.jar",
+        "size": 239637
+      },
+      {
+        "name": "jni/arm64-v8a/libfilament-utils-jni.so",
+        "size": 1059384
+      },
+      {
+        "name": "jni/armeabi-v7a/libfilament-utils-jni.so",
+        "size": 729448
+      },
+      {
+        "name": "jni/x86/libfilament-utils-jni.so",
+        "size": 1090068
+      },
+      {
+        "name": "jni/x86_64/libfilament-utils-jni.so",
+        "size": 1128440
+      }
+    ]
+  },
+  {
+    "name": "gltfio-android-release.aar",
+    "size": 13781376,
+    "content": [
+      {
+        "name": "classes.jar",
+        "size": 14522
+      },
+      {
+        "name": "jni/arm64-v8a/libgltfio-jni.so",
+        "size": 4858888
+      },
+      {
+        "name": "jni/armeabi-v7a/libgltfio-jni.so",
+        "size": 4193424
+      },
+      {
+        "name": "jni/x86/libgltfio-jni.so",
+        "size": 5112336
+      },
+      {
+        "name": "jni/x86_64/libgltfio-jni.so",
+        "size": 5055600
+      }
+    ]
+  }
+]
