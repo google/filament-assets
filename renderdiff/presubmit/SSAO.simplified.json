@@ -1,1 +1,1 @@
-[{"name": "SSAO", "base": {"viewer.cameraFocalLength": 35.0, "view.postProcessingEnabled": true, "view.dithering": "NONE", "view.ssao.enabled": true}}]
+[{"name": "SSAO", "base": {"camera.focalLength": 35.0, "view.postProcessingEnabled": true, "view.dithering": "NONE", "view.ssao.enabled": true}}]

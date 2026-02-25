@@ -12,10 +12,11 @@
 "lodBias": -1,
 "sharpness": 0,
 "enabled": false,
-"upscaling": false,
+"upscaling": 1,
 "filterHistory": true,
 "filterInput": true,
 "useYCoCg": false,
+"hdr": true,
 "boxType": "AABB",
 "boxClipping": "ACCURATE",
 "jitterPattern": "HALTON_23_X16",
@@ -192,6 +193,23 @@
 "lighting": {
 "enableShadows": true,
 "enableSunlight": true,
+"softShadowOptions": {
+"penumbraScale": 1,
+"penumbraRatioScale": 1
+},
+"sunlight": {
+"type": "SUN",
+"position": [0, 0, 0],
+"direction": [0.6, -1, -0.8],
+"color": [0.955105, 0.827571, 0.767769],
+"intensity": 100000,
+"falloff": 0,
+"spotInner": 0,
+"spotOuter": 0,
+"sunHaloSize": 10,
+"sunHaloFalloff": 80,
+"sunAngularRadius": 1.9,
+"castShadows": false,
 "shadowOptions": {
 "vsm": {
 "elvsm": false,
@@ -214,36 +232,39 @@
 "maxShadowDistance": 0.3,
 "shadowBulbRadius": 0.02,
 "transform": [0, 0, 0, 1],
+}
 },
-"softShadowOptions": {
-"penumbraScale": 1,
-"penumbraRatioScale": 1
-},
-"sunlightIntensity": 100000,
-"sunlightHaloSize": 10,
-"sunlightHaloFalloff": 80,
-"sunlightAngularRadius": 1.9,
-"sunlightDirection": [0.6, -1, -0.8],
-"sunlightColor": [0.955105, 0.827571, 0.767769],
 "iblIntensity": 30000,
-"iblRotation": 0
+"iblRotation": 0,
+"lights": [
+]
 },
 "viewer": {
-"cameraAperture": 16,
-"cameraSpeed": 125,
-"cameraISO": 100,
-"cameraNear": 0.1,
-"cameraFar": 100,
-"cameraEyeOcularDistance": 0,
-"cameraEyeToeIn": 0,
 "groundShadowStrength": 0.75,
 "groundPlaneEnabled": false,
 "skyboxEnabled": true,
 "backgroundColor": [0, 0, 0],
-"cameraFocalLength": 35,
-"cameraFocusDistance": 10,
 "autoInstancingEnabled": false,
 "autoScaleEnabled": true
+},
+"camera": {
+"center": [0, 0, 0],
+"lookAt": [0, 0, -1],
+"up": [0, 1, 0],
+"horizontalFov": 0,
+"near": 0.1,
+"far": 100,
+"focalLength": 35,
+"aperture": 16,
+"shutterSpeed": 125,
+"sensitivity": 100,
+"focusDistance": 10,
+"eyeOcularDistance": 0,
+"eyeToeIn": 0,
+"projection": "PERSPECTIVE",
+"enabled": false,
+"scaling": [1, 1],
+"shift": [0, 0]
 },
 "debug": {
 "skipFrames": 0
