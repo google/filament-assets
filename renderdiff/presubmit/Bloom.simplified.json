@@ -1,1 +1,1 @@
-[{"name": "Bloom", "base": {"viewer.cameraFocalLength": 35.0, "view.postProcessingEnabled": true, "view.dithering": "NONE", "view.bloom.enabled": true}}]
+[{"name": "Bloom", "base": {"camera.focalLength": 35.0, "view.postProcessingEnabled": true, "view.dithering": "NONE", "view.bloom.enabled": true}}]
