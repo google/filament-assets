@@ -1,11 +1,11 @@
 [
   {
-    "name": "MSAA.vulkan.Box",
+    "name": "MSAA.vulkan.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.vulkan.BoxTextured",
+    "name": "MSAA.vulkan.Box",
     "result": "ok",
     "result_code": 0
   },
@@ -50,6 +50,11 @@
     "result_code": 0
   },
   {
+    "name": "SSAO.opengl.Duck",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "Transimssion.vulkan.TransmissionRoughnessTest",
     "result": "ok",
     "result_code": 0
@@ -75,22 +80,17 @@
     "result_code": 0
   },
   {
-    "name": "SSAO.opengl.Duck",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "Transimssion.opengl.TransmissionRoughnessTest",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "SSAO.opengl.lucy",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "SSAO.vulkan.Duck",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.opengl.TransmissionRoughnessTest",
     "result": "ok",
     "result_code": 0
   },
@@ -116,16 +116,6 @@
   },
   {
     "name": "MSAA.webgpu.FlightHelmet",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "Transimssion.webgpu.IridescentDishWithOlives",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "Transimssion.webgpu.TransmissionRoughnessTest",
     "result": "ok",
     "result_code": 0
   }
