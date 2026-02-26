@@ -15,12 +15,12 @@
     "result_code": 0
   },
   {
-    "name": "MSAA.opengl.BoxTextured",
+    "name": "MSAA.opengl.Box",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.opengl.Box",
+    "name": "MSAA.opengl.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
