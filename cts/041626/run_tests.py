@@ -118,8 +118,14 @@ def take_bugreport(device_id):
 def action_a(device_id):
     """Execute Action A for a given device."""
     result_zip_path = os.path.join(RESULTS_DIR, f"{device_id}.zip")
+    bugreport_path = os.path.join(RESULTS_DIR, f"bugreport-{device_id}.zip")
+
     if os.path.exists(result_zip_path):
         log(device_id, f"Result zip {result_zip_path} already exists. Skipping test.")
+        return
+
+    if os.path.exists(bugreport_path):
+        log(device_id, f"Bugreport {bugreport_path} already exists. Skipping test.")
         return
 
     log(device_id, "Starting test sequence.")
