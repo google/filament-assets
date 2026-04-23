@@ -255,7 +255,7 @@
 "horizontalFov": 0,
 "near": 0.1,
 "far": 100,
-"focalLength": 52,
+"focalLength": 35,
 "aperture": 16,
 "shutterSpeed": 125,
 "sensitivity": 100,
