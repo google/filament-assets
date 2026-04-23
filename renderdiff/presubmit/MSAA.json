@@ -37,6 +37,7 @@
 "colorspace": Rec709-sRGB-D65,
 "quality": "MEDIUM",
 "toneMapping": "ACES_LEGACY",
+"customLut": "NONE",
 "genericToneMapper": {
 "contrast": 1.55,
 "midGrayIn": 0.18,
@@ -209,7 +210,7 @@
 "sunHaloSize": 10,
 "sunHaloFalloff": 80,
 "sunAngularRadius": 1.9,
-"castShadows": false,
+"castShadows": true,
 "shadowOptions": {
 "vsm": {
 "elvsm": false,
@@ -265,6 +266,20 @@
 "enabled": false,
 "scaling": [1, 1],
 "shift": [0, 0]
+},
+"render": {
+"clearOptions": {
+"clearColor": [0, 0, 0, 0],
+"clearStencil": 0,
+"clear": false,
+"discard": true
+},
+"frameRateOptions": {
+"headRoomRatio": 0,
+"scaleRate": 0.125,
+"history": 15,
+"interval": 1
+}
 },
 "debug": {
 "skipFrames": 0
