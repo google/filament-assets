@@ -209,7 +209,7 @@
 "spotOuter": 0,
 "sunHaloSize": 10,
 "sunHaloFalloff": 80,
-"sunAngularRadius": 1.9,
+"sunAngularRadius": 0.545,
 "castShadows": true,
 "shadowOptions": {
 "vsm": {
