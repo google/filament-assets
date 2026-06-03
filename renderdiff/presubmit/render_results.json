@@ -1,11 +1,11 @@
 [
   {
-    "name": "MSAA.opengl.Box",
+    "name": "MSAA.opengl.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.opengl.BoxTextured",
+    "name": "MSAA.opengl.Box",
     "result": "ok",
     "result_code": 0
   },
@@ -50,12 +50,12 @@
     "result_code": 0
   },
   {
-    "name": "Transimssion.opengl.TransmissionRoughnessTest",
+    "name": "Transimssion.opengl.IridescentDishWithOlives",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Transimssion.opengl.IridescentDishWithOlives",
+    "name": "Transimssion.opengl.TransmissionRoughnessTest",
     "result": "ok",
     "result_code": 0
   },
@@ -105,12 +105,12 @@
     "result_code": 0
   },
   {
-    "name": "Transimssion.vulkan.IridescentDishWithOlives",
+    "name": "Transimssion.vulkan.TransmissionRoughnessTest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Transimssion.vulkan.TransmissionRoughnessTest",
+    "name": "Transimssion.vulkan.IridescentDishWithOlives",
     "result": "ok",
     "result_code": 0
   },
@@ -141,11 +141,6 @@
   },
   {
     "name": "MSAA.webgpu.FlightHelmet",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "SSR.webgpu.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   }
