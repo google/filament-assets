@@ -30,12 +30,12 @@
     "result_code": 0
   },
   {
-    "name": "MSAA.vulkan.lucy",
+    "name": "MSAA.vulkan.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.vulkan.BoxTextured",
+    "name": "MSAA.vulkan.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -50,22 +50,22 @@
     "result_code": 0
   },
   {
-    "name": "Transimssion.opengl.IridescentDishWithOlives",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "Transimssion.opengl.TransmissionRoughnessTest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.webgpu.Box",
+    "name": "Transimssion.opengl.IridescentDishWithOlives",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "MSAA.webgpu.BoxTextured",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.webgpu.Box",
     "result": "ok",
     "result_code": 0
   },
@@ -125,12 +125,12 @@
     "result_code": 0
   },
   {
-    "name": "SSAO.webgpu.Duck",
+    "name": "SSAO.webgpu.lucy",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "SSAO.webgpu.lucy",
+    "name": "SSAO.webgpu.Duck",
     "result": "ok",
     "result_code": 0
   },
