@@ -193,7 +193,7 @@
 "material": {},
 "lighting": {
 "enableShadows": true,
-"enableSunlight": true,
+"enableSunlight": false,
 "softShadowOptions": {
 "penumbraScale": 1,
 "penumbraRatioScale": 1
@@ -235,9 +235,120 @@
 "transform": [0, 0, 0, 1],
 }
 },
-"iblIntensity": 30000,
+"iblIntensity": 0,
 "iblRotation": 0,
 "lights": [
+{
+"type": "POINT",
+"position": [4, 0, 0],
+"direction": [0, -1, 0],
+"color": [1, 0.1, 0.1],
+"intensity": 1e+08,
+"falloff": 10,
+"spotInner": 0,
+"spotOuter": 0,
+"sunHaloSize": 10,
+"sunHaloFalloff": 80,
+"sunAngularRadius": 0.545,
+"castShadows": false,
+"shadowOptions": {
+"vsm": {
+"elvsm": false,
+"blurWidth": 0
+},
+"mapSize": 1024,
+"shadowCascades": 1,
+"cascadeSplitPositions": [0.125, 0.25, 0.5]
+"constantBias": 0.001,
+"normalBias": 1,
+"shadowFar": 0,
+"shadowNearHint": 1,
+"shadowFarHint": 100,
+"stable": false,
+"lispsm": true,
+"polygonOffsetConstant": 0.5,
+"polygonOffsetSlope": 2,
+"screenSpaceContactShadows": false,
+"stepCount": 8,
+"maxShadowDistance": 0.3,
+"shadowBulbRadius": 0.02,
+"transform": [0, 0, 0, 1],
+}
+},
+{
+"type": "POINT",
+"position": [-4, 0, 0],
+"direction": [0, -1, 0],
+"color": [0.1, 0.1, 1],
+"intensity": 1e+08,
+"falloff": 10,
+"spotInner": 0,
+"spotOuter": 0,
+"sunHaloSize": 10,
+"sunHaloFalloff": 80,
+"sunAngularRadius": 0.545,
+"castShadows": false,
+"shadowOptions": {
+"vsm": {
+"elvsm": false,
+"blurWidth": 0
+},
+"mapSize": 1024,
+"shadowCascades": 1,
+"cascadeSplitPositions": [0.125, 0.25, 0.5]
+"constantBias": 0.001,
+"normalBias": 1,
+"shadowFar": 0,
+"shadowNearHint": 1,
+"shadowFarHint": 100,
+"stable": false,
+"lispsm": true,
+"polygonOffsetConstant": 0.5,
+"polygonOffsetSlope": 2,
+"screenSpaceContactShadows": false,
+"stepCount": 8,
+"maxShadowDistance": 0.3,
+"shadowBulbRadius": 0.02,
+"transform": [0, 0, 0, 1],
+}
+},
+{
+"type": "POINT",
+"position": [0, 0, 4],
+"direction": [0, -1, 0],
+"color": [0.1, 1, 0.1],
+"intensity": 1e+08,
+"falloff": 10,
+"spotInner": 0,
+"spotOuter": 0,
+"sunHaloSize": 10,
+"sunHaloFalloff": 80,
+"sunAngularRadius": 0.545,
+"castShadows": false,
+"shadowOptions": {
+"vsm": {
+"elvsm": false,
+"blurWidth": 0
+},
+"mapSize": 1024,
+"shadowCascades": 1,
+"cascadeSplitPositions": [0.125, 0.25, 0.5]
+"constantBias": 0.001,
+"normalBias": 1,
+"shadowFar": 0,
+"shadowNearHint": 1,
+"shadowFarHint": 100,
+"stable": false,
+"lispsm": true,
+"polygonOffsetConstant": 0.5,
+"polygonOffsetSlope": 2,
+"screenSpaceContactShadows": false,
+"stepCount": 8,
+"maxShadowDistance": 0.3,
+"shadowBulbRadius": 0.02,
+"transform": [0, 0, 0, 1],
+}
+}
 ]
 },
 "viewer": {
@@ -256,7 +367,7 @@
 "horizontalFov": 0,
 "near": 0.1,
 "far": 100,
-"focalLength": 52,
+"focalLength": 35,
 "aperture": 16,
 "shutterSpeed": 125,
 "sensitivity": 100,
