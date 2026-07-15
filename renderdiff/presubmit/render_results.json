@@ -1,11 +1,11 @@
 [
   {
-    "name": "MSAA.opengl.Box",
+    "name": "MSAA.opengl.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.opengl.BoxTextured",
+    "name": "MSAA.opengl.Box",
     "result": "ok",
     "result_code": 0
   },
@@ -85,12 +85,12 @@
     "result_code": 0
   },
   {
-    "name": "Transimssion.opengl.IridescentDishWithOlives",
+    "name": "SSAO.opengl.Duck",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "SSAO.opengl.Duck",
+    "name": "Transimssion.opengl.IridescentDishWithOlives",
     "result": "ok",
     "result_code": 0
   },
@@ -110,12 +110,12 @@
     "result_code": 0
   },
   {
-    "name": "Skinning.opengl.Fox",
+    "name": "Transimssion.vulkan.TransmissionRoughnessTest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Transimssion.vulkan.TransmissionRoughnessTest",
+    "name": "Skinning.opengl.Fox",
     "result": "ok",
     "result_code": 0
   },

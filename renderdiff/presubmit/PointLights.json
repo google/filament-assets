@@ -196,7 +196,9 @@
 "enableSunlight": false,
 "softShadowOptions": {
 "penumbraScale": 1,
-"penumbraRatioScale": 1
+"penumbraRatioScale": 1,
+"maxPenumbraRatio": 10,
+"maxSearchRadius": 1
 },
 "sunlight": {
 "type": "SUN",
@@ -231,8 +233,12 @@
 "screenSpaceContactShadows": false,
 "stepCount": 8,
 "maxShadowDistance": 0.3,
-"shadowBulbRadius": 0.02,
+"shadowBulbRadius": -1,
 "transform": [0, 0, 0, 1],
+"penumbraScale": 1,
+"penumbraRatioScale": 1,
+"maxPenumbraRatio": 0,
+"maxSearchRadius": 0
 }
 },
 "iblIntensity": 0,
@@ -271,8 +277,12 @@
 "screenSpaceContactShadows": false,
 "stepCount": 8,
 "maxShadowDistance": 0.3,
-"shadowBulbRadius": 0.02,
+"shadowBulbRadius": -1,
 "transform": [0, 0, 0, 1],
+"penumbraScale": 1,
+"penumbraRatioScale": 1,
+"maxPenumbraRatio": 0,
+"maxSearchRadius": 0
 }
 },
 {
@@ -308,8 +318,12 @@
 "screenSpaceContactShadows": false,
 "stepCount": 8,
 "maxShadowDistance": 0.3,
-"shadowBulbRadius": 0.02,
+"shadowBulbRadius": -1,
 "transform": [0, 0, 0, 1],
+"penumbraScale": 1,
+"penumbraRatioScale": 1,
+"maxPenumbraRatio": 0,
+"maxSearchRadius": 0
 }
 },
 {
@@ -345,8 +359,12 @@
 "screenSpaceContactShadows": false,
 "stepCount": 8,
 "maxShadowDistance": 0.3,
-"shadowBulbRadius": 0.02,
+"shadowBulbRadius": -1,
 "transform": [0, 0, 0, 1],
+"penumbraScale": 1,
+"penumbraRatioScale": 1,
+"maxPenumbraRatio": 0,
+"maxSearchRadius": 0
 }
 }
 ]
