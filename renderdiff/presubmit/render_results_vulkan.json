@@ -1,0 +1,62 @@
+[
+  {
+    "name": "MSAA.desktop-vulkan.BoxTextured",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.desktop-vulkan.Box",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.desktop-vulkan.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Bloom.desktop-vulkan.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "PointLights.desktop-vulkan.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSAO.desktop-vulkan.Duck",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSAO.desktop-vulkan.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Skinning.desktop-vulkan.Fox",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.desktop-vulkan.FlightHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSR.desktop-vulkan.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.desktop-vulkan.TransmissionRoughnessTest",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.desktop-vulkan.IridescentDishWithOlives",
+    "result": "ok",
+    "result_code": 0
+  }
+]
