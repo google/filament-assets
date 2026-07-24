@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MSAA.desktop-webgpu.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.desktop-webgpu.Box",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.desktop-webgpu.BoxTextured",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSAO.desktop-webgpu.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSAO.desktop-webgpu.Duck",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "PointLights.desktop-webgpu.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Skinning.desktop-webgpu.Fox",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSR.desktop-webgpu.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.desktop-webgpu.FlightHelmet",
+    "result": "ok",
+    "result_code": 0
+  }
+]
