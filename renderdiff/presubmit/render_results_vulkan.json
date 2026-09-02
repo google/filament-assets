@@ -15,12 +15,17 @@
     "result_code": 0
   },
   {
+    "name": "PointLights.desktop-vulkan.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "Bloom.desktop-vulkan.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "PointLights.desktop-vulkan.lucy",
+    "name": "Skinning.desktop-vulkan.Fox",
     "result": "ok",
     "result_code": 0
   },
@@ -35,17 +40,12 @@
     "result_code": 0
   },
   {
-    "name": "Skinning.desktop-vulkan.Fox",
+    "name": "SSR.desktop-vulkan.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "MSAA.desktop-vulkan.FlightHelmet",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "SSR.desktop-vulkan.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
