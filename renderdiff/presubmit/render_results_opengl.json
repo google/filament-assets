@@ -1,21 +1,21 @@
 [
   {
-    "name": "MSAA.desktop-opengl.BoxTextured",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "MSAA.desktop-opengl.Box",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Bloom.desktop-opengl.DamagedHelmet",
+    "name": "MSAA.desktop-opengl.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "PointLights.desktop-opengl.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Bloom.desktop-opengl.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
