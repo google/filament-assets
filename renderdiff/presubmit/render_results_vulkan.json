@@ -1,11 +1,11 @@
 [
   {
-    "name": "MSAA.desktop-vulkan.BoxTextured",
+    "name": "MSAA.desktop-vulkan.Box",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-vulkan.Box",
+    "name": "MSAA.desktop-vulkan.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
@@ -35,7 +35,22 @@
     "result_code": 0
   },
   {
+    "name": "HelloTriangle.desktop-vulkan.hellotriangle",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "SSAO.desktop-vulkan.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "HelloPBR.desktop-vulkan.hellopbr",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Suzanne.desktop-vulkan.suzanne",
     "result": "ok",
     "result_code": 0
   },
