@@ -1,11 +1,11 @@
 [
   {
-    "name": "MSAA.desktop-webgpu.Box",
+    "name": "MSAA.desktop-webgpu.lucy",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-webgpu.lucy",
+    "name": "MSAA.desktop-webgpu.Box",
     "result": "ok",
     "result_code": 0
   },
@@ -20,12 +20,17 @@
     "result_code": 0
   },
   {
+    "name": "Bloom.desktop-webgpu.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "Skinning.desktop-webgpu.Fox",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Bloom.desktop-webgpu.DamagedHelmet",
+    "name": "HelloTriangle.desktop-webgpu.hellotriangle",
     "result": "ok",
     "result_code": 0
   },
@@ -35,12 +40,22 @@
     "result_code": 0
   },
   {
-    "name": "SSAO.desktop-webgpu.lucy",
+    "name": "HelloPBR.desktop-webgpu.hellopbr",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Suzanne.desktop-webgpu.suzanne",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "SSAO.desktop-webgpu.Duck",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSAO.desktop-webgpu.lucy",
     "result": "ok",
     "result_code": 0
   },
