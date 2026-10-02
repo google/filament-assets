@@ -1,0 +1,62 @@
+[
+  {
+    "name": "PointLights.web-webgpu.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Bloom.web-webgpu.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.web-webgpu.Box",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.web-webgpu.BoxTextured",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.web-webgpu.FlightHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.web-webgpu.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.web-webgpu.TransmissionRoughnessTest",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.web-webgpu.IridescentDishWithOlives",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSAO.web-webgpu.Duck",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSAO.web-webgpu.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Skinning.web-webgpu.Fox",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSR.web-webgpu.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  }
+]
