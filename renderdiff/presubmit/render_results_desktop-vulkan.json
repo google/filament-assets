@@ -1,11 +1,11 @@
 [
   {
-    "name": "MSAA.desktop-vulkan.Box",
+    "name": "MSAA.desktop-vulkan.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-vulkan.BoxTextured",
+    "name": "MSAA.desktop-vulkan.Box",
     "result": "ok",
     "result_code": 0
   },
@@ -45,17 +45,17 @@
     "result_code": 0
   },
   {
-    "name": "HelloTriangle.desktop-vulkan.hellotriangle",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "Transimssion.desktop-vulkan.IridescentDishWithOlives",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "Skinning.desktop-vulkan.Fox",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "HelloTriangle.desktop-vulkan.hellotriangle",
     "result": "ok",
     "result_code": 0
   },
@@ -75,12 +75,7 @@
     "result_code": 0
   },
   {
-    "name": "RenderTarget.desktop-vulkan.rendertarget",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "SkinningTest.desktop-vulkan.skinningtest",
+    "name": "QuantizedMesh.desktop-vulkan.Duck",
     "result": "ok",
     "result_code": 0
   },
@@ -90,12 +85,17 @@
     "result_code": 0
   },
   {
+    "name": "RenderTarget.desktop-vulkan.rendertarget",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "SkinningBuffer.desktop-vulkan.helloskinningbuffer",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Lightbulb.desktop-vulkan.lightbulb",
+    "name": "SkinningTest.desktop-vulkan.skinningtest",
     "result": "ok",
     "result_code": 0
   },
@@ -106,6 +106,11 @@
   },
   {
     "name": "UvMorphing.desktop-vulkan.hellouvmorphing",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Lightbulb.desktop-vulkan.lightbulb",
     "result": "ok",
     "result_code": 0
   },
@@ -125,12 +130,12 @@
     "result_code": 0
   },
   {
-    "name": "Cloth.desktop-vulkan.sample_cloth",
+    "name": "MaterialSandbox.desktop-vulkan.material_sandbox",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MaterialSandbox.desktop-vulkan.material_sandbox",
+    "name": "Cloth.desktop-vulkan.sample_cloth",
     "result": "ok",
     "result_code": 0
   },
@@ -180,12 +185,12 @@
     "result_code": 0
   },
   {
-    "name": "FullPbr.desktop-vulkan.sample_full_pbr",
+    "name": "ProceduralTextureQuad.desktop-vulkan.procedural_texture_quad",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "ProceduralTextureQuad.desktop-vulkan.procedural_texture_quad",
+    "name": "FullPbr.desktop-vulkan.sample_full_pbr",
     "result": "ok",
     "result_code": 0
   }

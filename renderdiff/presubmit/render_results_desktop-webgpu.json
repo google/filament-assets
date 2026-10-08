@@ -5,11 +5,6 @@
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-webgpu.Box",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "Bloom.desktop-webgpu.DamagedHelmet",
     "result": "ok",
     "result_code": 0
@@ -20,12 +15,12 @@
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-webgpu.lucy",
+    "name": "MSAA.desktop-webgpu.Box",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-webgpu.FlightHelmet",
+    "name": "MSAA.desktop-webgpu.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -35,7 +30,17 @@
     "result_code": 0
   },
   {
-    "name": "SSAO.desktop-webgpu.lucy",
+    "name": "MSAA.desktop-webgpu.FlightHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.desktop-webgpu.TransmissionRoughnessTest",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.desktop-webgpu.IridescentDishWithOlives",
     "result": "ok",
     "result_code": 0
   },
@@ -55,12 +60,7 @@
     "result_code": 0
   },
   {
-    "name": "Transimssion.desktop-webgpu.IridescentDishWithOlives",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "Transimssion.desktop-webgpu.TransmissionRoughnessTest",
+    "name": "SSAO.desktop-webgpu.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -80,12 +80,17 @@
     "result_code": 0
   },
   {
+    "name": "Lightbulb.desktop-webgpu.lightbulb",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "SSR.desktop-webgpu.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Lightbulb.desktop-webgpu.lightbulb",
+    "name": "Cloth.desktop-webgpu.sample_cloth",
     "result": "ok",
     "result_code": 0
   },
@@ -95,12 +100,12 @@
     "result_code": 0
   },
   {
-    "name": "SkinningBuffer.desktop-webgpu.helloskinningbuffer",
+    "name": "QuantizedMesh.desktop-webgpu.Duck",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Cloth.desktop-webgpu.sample_cloth",
+    "name": "SkinningBuffer.desktop-webgpu.helloskinningbuffer",
     "result": "ok",
     "result_code": 0
   },
@@ -115,12 +120,12 @@
     "result_code": 0
   },
   {
-    "name": "FullPbr.desktop-webgpu.sample_full_pbr",
+    "name": "UvMorphing.desktop-webgpu.hellouvmorphing",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "UvMorphing.desktop-webgpu.hellouvmorphing",
+    "name": "FullPbr.desktop-webgpu.sample_full_pbr",
     "result": "ok",
     "result_code": 0
   },
@@ -135,7 +140,7 @@
     "result_code": 0
   },
   {
-    "name": "DepthTesting.desktop-webgpu.depthtesting",
+    "name": "MaterialSandbox.desktop-webgpu.material_sandbox",
     "result": "ok",
     "result_code": 0
   },
@@ -145,22 +150,22 @@
     "result_code": 0
   },
   {
+    "name": "DepthTesting.desktop-webgpu.depthtesting",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "ViewTest.desktop-webgpu.viewtest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MaterialSandbox.desktop-webgpu.material_sandbox",
+    "name": "HybridInstancing.desktop-webgpu.hybrid_instancing",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "TexturedQuad.desktop-webgpu.texturedquad",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "HybridInstancing.desktop-webgpu.hybrid_instancing",
     "result": "ok",
     "result_code": 0
   },
