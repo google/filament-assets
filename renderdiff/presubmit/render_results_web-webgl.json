@@ -58,5 +58,10 @@
     "name": "SSR.web-webgl.DamagedHelmet",
     "result": "ok",
     "result_code": 0
+  },
+  {
+    "name": "QuantizedMesh.web-webgl.Duck",
+    "result": "ok",
+    "result_code": 0
   }
 ]
