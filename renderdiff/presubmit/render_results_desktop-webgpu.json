@@ -25,22 +25,12 @@
     "result_code": 0
   },
   {
-    "name": "SSAO.desktop-webgpu.Duck",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "MSAA.desktop-webgpu.FlightHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Transimssion.desktop-webgpu.TransmissionRoughnessTest",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "Transimssion.desktop-webgpu.IridescentDishWithOlives",
+    "name": "SSAO.desktop-webgpu.Duck",
     "result": "ok",
     "result_code": 0
   },
@@ -50,17 +40,27 @@
     "result_code": 0
   },
   {
-    "name": "HelloTriangle.desktop-webgpu.hellotriangle",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "HelloPBR.desktop-webgpu.hellopbr",
+    "name": "Transimssion.desktop-webgpu.TransmissionRoughnessTest",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "SSAO.desktop-webgpu.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "HelloTriangle.desktop-webgpu.hellotriangle",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.desktop-webgpu.IridescentDishWithOlives",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "HelloPBR.desktop-webgpu.hellopbr",
     "result": "ok",
     "result_code": 0
   },
@@ -85,7 +85,7 @@
     "result_code": 0
   },
   {
-    "name": "SSR.desktop-webgpu.DamagedHelmet",
+    "name": "SkinningTest.desktop-webgpu.skinningtest",
     "result": "ok",
     "result_code": 0
   },
@@ -95,17 +95,17 @@
     "result_code": 0
   },
   {
-    "name": "SkinningTest.desktop-webgpu.skinningtest",
+    "name": "SkinningBuffer.desktop-webgpu.helloskinningbuffer",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSR.desktop-webgpu.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "QuantizedMesh.desktop-webgpu.Duck",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "SkinningBuffer.desktop-webgpu.helloskinningbuffer",
     "result": "ok",
     "result_code": 0
   },
@@ -150,17 +150,17 @@
     "result_code": 0
   },
   {
+    "name": "HybridInstancing.desktop-webgpu.hybrid_instancing",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "DepthTesting.desktop-webgpu.depthtesting",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "ViewTest.desktop-webgpu.viewtest",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "HybridInstancing.desktop-webgpu.hybrid_instancing",
     "result": "ok",
     "result_code": 0
   },
