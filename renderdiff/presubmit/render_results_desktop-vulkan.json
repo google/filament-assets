@@ -1,11 +1,11 @@
 [
   {
-    "name": "MSAA.desktop-vulkan.BoxTextured",
+    "name": "MSAA.desktop-vulkan.Box",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-vulkan.Box",
+    "name": "MSAA.desktop-vulkan.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
@@ -45,12 +45,12 @@
     "result_code": 0
   },
   {
-    "name": "Transimssion.desktop-vulkan.IridescentDishWithOlives",
+    "name": "Skinning.desktop-vulkan.Fox",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Skinning.desktop-vulkan.Fox",
+    "name": "Transimssion.desktop-vulkan.IridescentDishWithOlives",
     "result": "ok",
     "result_code": 0
   },
@@ -90,12 +90,12 @@
     "result_code": 0
   },
   {
-    "name": "SkinningBuffer.desktop-vulkan.helloskinningbuffer",
+    "name": "SkinningTest.desktop-vulkan.skinningtest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "SkinningTest.desktop-vulkan.skinningtest",
+    "name": "SkinningBuffer.desktop-vulkan.helloskinningbuffer",
     "result": "ok",
     "result_code": 0
   },
@@ -110,12 +110,12 @@
     "result_code": 0
   },
   {
-    "name": "Lightbulb.desktop-vulkan.lightbulb",
+    "name": "HelloSkinning.desktop-vulkan.helloskinning",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "HelloSkinning.desktop-vulkan.helloskinning",
+    "name": "Lightbulb.desktop-vulkan.lightbulb",
     "result": "ok",
     "result_code": 0
   },
@@ -150,7 +150,7 @@
     "result_code": 0
   },
   {
-    "name": "ImageViewer.desktop-vulkan.image_viewer",
+    "name": "HybridInstancing.desktop-vulkan.hybrid_instancing",
     "result": "ok",
     "result_code": 0
   },
@@ -160,17 +160,7 @@
     "result_code": 0
   },
   {
-    "name": "HybridInstancing.desktop-vulkan.hybrid_instancing",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "TexturedQuad.desktop-vulkan.texturedquad",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "DynamicGeometry.desktop-vulkan.animation",
     "result": "ok",
     "result_code": 0
   },
@@ -180,7 +170,17 @@
     "result_code": 0
   },
   {
+    "name": "DynamicGeometry.desktop-vulkan.animation",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "ProceduralEffect.desktop-vulkan.procedural_effect",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "ImageViewer.desktop-vulkan.image_viewer",
     "result": "ok",
     "result_code": 0
   },
