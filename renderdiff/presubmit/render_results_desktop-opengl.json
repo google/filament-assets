@@ -1,11 +1,11 @@
 [
   {
-    "name": "MSAA.desktop-opengl.Box",
+    "name": "MSAA.desktop-opengl.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-opengl.BoxTextured",
+    "name": "MSAA.desktop-opengl.Box",
     "result": "ok",
     "result_code": 0
   },
@@ -35,12 +35,12 @@
     "result_code": 0
   },
   {
-    "name": "Transimssion.desktop-opengl.IridescentDishWithOlives",
+    "name": "Transimssion.desktop-opengl.TransmissionRoughnessTest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Transimssion.desktop-opengl.TransmissionRoughnessTest",
+    "name": "Transimssion.desktop-opengl.IridescentDishWithOlives",
     "result": "ok",
     "result_code": 0
   },
@@ -55,12 +55,12 @@
     "result_code": 0
   },
   {
-    "name": "HelloPBR.desktop-opengl.hellopbr",
+    "name": "Skinning.desktop-opengl.Fox",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Skinning.desktop-opengl.Fox",
+    "name": "HelloPBR.desktop-opengl.hellopbr",
     "result": "ok",
     "result_code": 0
   },
@@ -70,12 +70,12 @@
     "result_code": 0
   },
   {
-    "name": "Suzanne.desktop-opengl.suzanne",
+    "name": "SSR.desktop-opengl.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "SSR.desktop-opengl.DamagedHelmet",
+    "name": "RenderTarget.desktop-opengl.rendertarget",
     "result": "ok",
     "result_code": 0
   },
@@ -85,7 +85,7 @@
     "result_code": 0
   },
   {
-    "name": "RenderTarget.desktop-opengl.rendertarget",
+    "name": "Suzanne.desktop-opengl.suzanne",
     "result": "ok",
     "result_code": 0
   },
@@ -135,12 +135,12 @@
     "result_code": 0
   },
   {
-    "name": "Cloth.desktop-opengl.sample_cloth",
+    "name": "NormalMap.desktop-opengl.sample_normal_map",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "NormalMap.desktop-opengl.sample_normal_map",
+    "name": "HybridInstancing.desktop-opengl.hybrid_instancing",
     "result": "ok",
     "result_code": 0
   },
@@ -155,17 +155,12 @@
     "result_code": 0
   },
   {
-    "name": "ImageViewer.desktop-opengl.image_viewer",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "TexturedQuad.desktop-opengl.texturedquad",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "FullPbr.desktop-opengl.sample_full_pbr",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Cloth.desktop-opengl.sample_cloth",
     "result": "ok",
     "result_code": 0
   },
@@ -180,12 +175,17 @@
     "result_code": 0
   },
   {
-    "name": "HybridInstancing.desktop-opengl.hybrid_instancing",
+    "name": "TexturedQuad.desktop-opengl.texturedquad",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "ProceduralEffect.desktop-opengl.procedural_effect",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "ImageViewer.desktop-opengl.image_viewer",
     "result": "ok",
     "result_code": 0
   },
