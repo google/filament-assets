@@ -5,12 +5,12 @@
     "result_code": 0
   },
   {
-    "name": "PointLights.desktop-webgpu.lucy",
+    "name": "Bloom.desktop-webgpu.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Bloom.desktop-webgpu.DamagedHelmet",
+    "name": "PointLights.desktop-webgpu.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -35,12 +35,12 @@
     "result_code": 0
   },
   {
-    "name": "SSAO.desktop-webgpu.lucy",
+    "name": "Skinning.desktop-webgpu.Fox",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Transimssion.desktop-webgpu.TransmissionRoughnessTest",
+    "name": "SSAO.desktop-webgpu.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -51,11 +51,6 @@
   },
   {
     "name": "HelloTriangle.desktop-webgpu.hellotriangle",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "Skinning.desktop-webgpu.Fox",
     "result": "ok",
     "result_code": 0
   },
@@ -75,6 +70,11 @@
     "result_code": 0
   },
   {
+    "name": "Transimssion.desktop-webgpu.TransmissionRoughnessTest",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "RenderTarget.desktop-webgpu.rendertarget",
     "result": "ok",
     "result_code": 0
@@ -85,27 +85,7 @@
     "result_code": 0
   },
   {
-    "name": "SkinningTest.desktop-webgpu.skinningtest",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "Cloth.desktop-webgpu.sample_cloth",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "SSR.desktop-webgpu.DamagedHelmet",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "SkinningBuffer.desktop-webgpu.helloskinningbuffer",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "HelloSkinning.desktop-webgpu.helloskinning",
     "result": "ok",
     "result_code": 0
   },
@@ -115,7 +95,32 @@
     "result_code": 0
   },
   {
+    "name": "SkinningTest.desktop-webgpu.skinningtest",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SkinningBuffer.desktop-webgpu.helloskinningbuffer",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Cloth.desktop-webgpu.sample_cloth",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "HelloSkinning.desktop-webgpu.helloskinning",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "Morphing.desktop-webgpu.hellomorphing",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "FullPbr.desktop-webgpu.sample_full_pbr",
     "result": "ok",
     "result_code": 0
   },
@@ -135,12 +140,7 @@
     "result_code": 0
   },
   {
-    "name": "FullPbr.desktop-webgpu.sample_full_pbr",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "DepthTesting.desktop-webgpu.depthtesting",
+    "name": "HybridInstancing.desktop-webgpu.hybrid_instancing",
     "result": "ok",
     "result_code": 0
   },
@@ -150,12 +150,12 @@
     "result_code": 0
   },
   {
-    "name": "ViewTest.desktop-webgpu.viewtest",
+    "name": "DepthTesting.desktop-webgpu.depthtesting",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "HybridInstancing.desktop-webgpu.hybrid_instancing",
+    "name": "ViewTest.desktop-webgpu.viewtest",
     "result": "ok",
     "result_code": 0
   },
