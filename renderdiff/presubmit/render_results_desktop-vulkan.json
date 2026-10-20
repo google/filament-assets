@@ -50,22 +50,22 @@
     "result_code": 0
   },
   {
-    "name": "HelloTriangle.desktop-vulkan.hellotriangle",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "Skinning.desktop-vulkan.Fox",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "HelloPBR.desktop-vulkan.hellopbr",
+    "name": "SSRSkinning.desktop-vulkan.Fox",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Suzanne.desktop-vulkan.suzanne",
+    "name": "HelloTriangle.desktop-vulkan.hellotriangle",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSRMorphing.desktop-vulkan.AnimatedMorphCube",
     "result": "ok",
     "result_code": 0
   },
@@ -75,12 +75,22 @@
     "result_code": 0
   },
   {
+    "name": "SSR.desktop-vulkan.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "HelloPBR.desktop-vulkan.hellopbr",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "Shadowtest.desktop-vulkan.shadowtest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "SSR.desktop-vulkan.DamagedHelmet",
+    "name": "Suzanne.desktop-vulkan.suzanne",
     "result": "ok",
     "result_code": 0
   },
@@ -105,7 +115,7 @@
     "result_code": 0
   },
   {
-    "name": "HelloSkinning.desktop-vulkan.helloskinning",
+    "name": "UvMorphing.desktop-vulkan.hellouvmorphing",
     "result": "ok",
     "result_code": 0
   },
@@ -115,7 +125,7 @@
     "result_code": 0
   },
   {
-    "name": "UvMorphing.desktop-vulkan.hellouvmorphing",
+    "name": "HelloSkinning.desktop-vulkan.helloskinning",
     "result": "ok",
     "result_code": 0
   },
@@ -135,12 +145,12 @@
     "result_code": 0
   },
   {
-    "name": "Cloth.desktop-vulkan.sample_cloth",
+    "name": "NormalMap.desktop-vulkan.sample_normal_map",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "NormalMap.desktop-vulkan.sample_normal_map",
+    "name": "Cloth.desktop-vulkan.sample_cloth",
     "result": "ok",
     "result_code": 0
   },
@@ -155,12 +165,7 @@
     "result_code": 0
   },
   {
-    "name": "TexturedQuad.desktop-vulkan.texturedquad",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "ImageViewer.desktop-vulkan.image_viewer",
+    "name": "HybridInstancing.desktop-vulkan.hybrid_instancing",
     "result": "ok",
     "result_code": 0
   },
@@ -175,7 +180,12 @@
     "result_code": 0
   },
   {
-    "name": "HybridInstancing.desktop-vulkan.hybrid_instancing",
+    "name": "TexturedQuad.desktop-vulkan.texturedquad",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "ImageViewer.desktop-vulkan.image_viewer",
     "result": "ok",
     "result_code": 0
   },

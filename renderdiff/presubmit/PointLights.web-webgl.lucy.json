@@ -20,9 +20,19 @@
 "boxType": "AABB",
 "boxClipping": "ACCURATE",
 "jitterPattern": "HALTON_23_X16",
-"varianceGamma": 1,
+"varianceGamma": 0.7,
 "preventFlickering": false,
-"historyReprojection": true
+"historyReprojection": true,
+"motionAdaptiveHistory": false,
+"motionDeltaThreshold": 1,
+"minBoxStrength": 0.1,
+"minAlphaStrength": 0.3,
+"skyDepthThreshold": 0.001,
+"motionHoldFrames": 12,
+"depthDisocclusion": false,
+"disocclusionDepthThreshold": 0.001,
+"disocclusionHistoryNeighborhood": true,
+"exactLanczosSupport": false
 },
 "dsr": {
 "minScale": [0.5, 0.5],
