@@ -1,0 +1,1 @@
+[{"name": "SSRMorphing", "base": {"camera.focalLength": 35.0, "view.postProcessingEnabled": true, "view.dithering": "NONE", "view.screenSpaceReflections.enabled": true, "camera.enabled": true, "camera.center": [3.0, 2.0, 0.0], "camera.lookAt": [0.0, 0.0, -4.0], "animation": {"enabled": true, "time": 0.5}}}]

@@ -55,6 +55,16 @@
     "result_code": 0
   },
   {
+    "name": "SSRSkinning.web-webgpu.Fox",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSRMorphing.web-webgpu.AnimatedMorphCube",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "SSR.web-webgpu.DamagedHelmet",
     "result": "ok",
     "result_code": 0
