@@ -10,12 +10,12 @@
     "result_code": 0
   },
   {
-    "name": "PointLights.desktop-opengl.lucy",
+    "name": "Bloom.desktop-opengl.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Bloom.desktop-opengl.DamagedHelmet",
+    "name": "PointLights.desktop-opengl.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -75,6 +75,11 @@
     "result_code": 0
   },
   {
+    "name": "Suzanne.desktop-opengl.suzanne",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "RenderTarget.desktop-opengl.rendertarget",
     "result": "ok",
     "result_code": 0
@@ -85,17 +90,12 @@
     "result_code": 0
   },
   {
-    "name": "Suzanne.desktop-opengl.suzanne",
+    "name": "SkinningTest.desktop-opengl.skinningtest",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "SkinningBuffer.desktop-opengl.helloskinningbuffer",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "SkinningTest.desktop-opengl.skinningtest",
     "result": "ok",
     "result_code": 0
   },
@@ -175,17 +175,17 @@
     "result_code": 0
   },
   {
-    "name": "TexturedQuad.desktop-opengl.texturedquad",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "ProceduralEffect.desktop-opengl.procedural_effect",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "ImageViewer.desktop-opengl.image_viewer",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "TexturedQuad.desktop-opengl.texturedquad",
     "result": "ok",
     "result_code": 0
   },
