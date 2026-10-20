@@ -10,12 +10,12 @@
     "result_code": 0
   },
   {
-    "name": "PointLights.desktop-opengl.lucy",
+    "name": "Bloom.desktop-opengl.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Bloom.desktop-opengl.DamagedHelmet",
+    "name": "PointLights.desktop-opengl.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -70,6 +70,16 @@
     "result_code": 0
   },
   {
+    "name": "Suzanne.desktop-opengl.suzanne",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSR.desktop-opengl.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "Shadowtest.desktop-opengl.shadowtest",
     "result": "ok",
     "result_code": 0
@@ -80,22 +90,12 @@
     "result_code": 0
   },
   {
-    "name": "SSR.desktop-opengl.DamagedHelmet",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "Suzanne.desktop-opengl.suzanne",
+    "name": "SkinningTest.desktop-opengl.skinningtest",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "SkinningBuffer.desktop-opengl.helloskinningbuffer",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "SkinningTest.desktop-opengl.skinningtest",
     "result": "ok",
     "result_code": 0
   },
@@ -150,12 +150,12 @@
     "result_code": 0
   },
   {
-    "name": "ViewTest.desktop-opengl.viewtest",
+    "name": "FullPbr.desktop-opengl.sample_full_pbr",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "FullPbr.desktop-opengl.sample_full_pbr",
+    "name": "ViewTest.desktop-opengl.viewtest",
     "result": "ok",
     "result_code": 0
   },
@@ -165,12 +165,12 @@
     "result_code": 0
   },
   {
-    "name": "DynamicGeometry.desktop-opengl.animation",
+    "name": "VertexBufferLayout.desktop-opengl.vbotest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "VertexBufferLayout.desktop-opengl.vbotest",
+    "name": "DynamicGeometry.desktop-opengl.animation",
     "result": "ok",
     "result_code": 0
   },
@@ -180,12 +180,12 @@
     "result_code": 0
   },
   {
-    "name": "ProceduralEffect.desktop-opengl.procedural_effect",
+    "name": "ImageViewer.desktop-opengl.image_viewer",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "ImageViewer.desktop-opengl.image_viewer",
+    "name": "ProceduralEffect.desktop-opengl.procedural_effect",
     "result": "ok",
     "result_code": 0
   },
