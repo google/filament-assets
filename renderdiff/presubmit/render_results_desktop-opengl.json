@@ -1,11 +1,11 @@
 [
   {
-    "name": "MSAA.desktop-opengl.BoxTextured",
+    "name": "MSAA.desktop-opengl.Box",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-opengl.Box",
+    "name": "MSAA.desktop-opengl.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
@@ -55,12 +55,12 @@
     "result_code": 0
   },
   {
-    "name": "Skinning.desktop-opengl.Fox",
+    "name": "HelloPBR.desktop-opengl.hellopbr",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "HelloPBR.desktop-opengl.hellopbr",
+    "name": "Skinning.desktop-opengl.Fox",
     "result": "ok",
     "result_code": 0
   },
@@ -70,7 +70,7 @@
     "result_code": 0
   },
   {
-    "name": "SSR.desktop-opengl.DamagedHelmet",
+    "name": "Shadowtest.desktop-opengl.shadowtest",
     "result": "ok",
     "result_code": 0
   },
@@ -80,7 +80,7 @@
     "result_code": 0
   },
   {
-    "name": "Shadowtest.desktop-opengl.shadowtest",
+    "name": "SSR.desktop-opengl.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
@@ -90,12 +90,12 @@
     "result_code": 0
   },
   {
-    "name": "SkinningTest.desktop-opengl.skinningtest",
+    "name": "SkinningBuffer.desktop-opengl.helloskinningbuffer",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "SkinningBuffer.desktop-opengl.helloskinningbuffer",
+    "name": "SkinningTest.desktop-opengl.skinningtest",
     "result": "ok",
     "result_code": 0
   },
@@ -165,12 +165,12 @@
     "result_code": 0
   },
   {
-    "name": "VertexBufferLayout.desktop-opengl.vbotest",
+    "name": "DynamicGeometry.desktop-opengl.animation",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "DynamicGeometry.desktop-opengl.animation",
+    "name": "VertexBufferLayout.desktop-opengl.vbotest",
     "result": "ok",
     "result_code": 0
   },
