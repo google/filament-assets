@@ -35,7 +35,7 @@
     "result_code": 0
   },
   {
-    "name": "SSAO.desktop-vulkan.lucy",
+    "name": "Transimssion.desktop-vulkan.IridescentDishWithOlives",
     "result": "ok",
     "result_code": 0
   },
@@ -45,7 +45,7 @@
     "result_code": 0
   },
   {
-    "name": "Transimssion.desktop-vulkan.IridescentDishWithOlives",
+    "name": "SSAO.desktop-vulkan.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -75,17 +75,12 @@
     "result_code": 0
   },
   {
-    "name": "SSR.desktop-vulkan.DamagedHelmet",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "HelloPBR.desktop-vulkan.hellopbr",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Shadowtest.desktop-vulkan.shadowtest",
+    "name": "SSR.desktop-vulkan.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
@@ -96,6 +91,11 @@
   },
   {
     "name": "RenderTarget.desktop-vulkan.rendertarget",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Shadowtest.desktop-vulkan.shadowtest",
     "result": "ok",
     "result_code": 0
   },
@@ -165,17 +165,7 @@
     "result_code": 0
   },
   {
-    "name": "HybridInstancing.desktop-vulkan.hybrid_instancing",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "FullPbr.desktop-vulkan.sample_full_pbr",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "VertexBufferLayout.desktop-vulkan.vbotest",
     "result": "ok",
     "result_code": 0
   },
@@ -186,6 +176,16 @@
   },
   {
     "name": "ImageViewer.desktop-vulkan.image_viewer",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "VertexBufferLayout.desktop-vulkan.vbotest",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "HybridInstancing.desktop-vulkan.hybrid_instancing",
     "result": "ok",
     "result_code": 0
   },

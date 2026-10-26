@@ -10,12 +10,12 @@
     "result_code": 0
   },
   {
-    "name": "Bloom.desktop-opengl.DamagedHelmet",
+    "name": "PointLights.desktop-opengl.lucy",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "PointLights.desktop-opengl.lucy",
+    "name": "Bloom.desktop-opengl.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
@@ -30,17 +30,17 @@
     "result_code": 0
   },
   {
-    "name": "SSAO.desktop-opengl.lucy",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "Transimssion.desktop-opengl.TransmissionRoughnessTest",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "Transimssion.desktop-opengl.IridescentDishWithOlives",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSAO.desktop-opengl.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -85,11 +85,6 @@
     "result_code": 0
   },
   {
-    "name": "Shadowtest.desktop-opengl.shadowtest",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "Suzanne.desktop-opengl.suzanne",
     "result": "ok",
     "result_code": 0
@@ -100,12 +95,12 @@
     "result_code": 0
   },
   {
-    "name": "SkinningTest.desktop-opengl.skinningtest",
+    "name": "Shadowtest.desktop-opengl.shadowtest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "SkinningBuffer.desktop-opengl.helloskinningbuffer",
+    "name": "SkinningTest.desktop-opengl.skinningtest",
     "result": "ok",
     "result_code": 0
   },
@@ -115,12 +110,17 @@
     "result_code": 0
   },
   {
-    "name": "UvMorphing.desktop-opengl.hellouvmorphing",
+    "name": "SkinningBuffer.desktop-opengl.helloskinningbuffer",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "HelloSkinning.desktop-opengl.helloskinning",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "UvMorphing.desktop-opengl.hellouvmorphing",
     "result": "ok",
     "result_code": 0
   },
@@ -165,17 +165,22 @@
     "result_code": 0
   },
   {
-    "name": "Cloth.desktop-opengl.sample_cloth",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "TexturedQuad.desktop-opengl.texturedquad",
     "result": "ok",
     "result_code": 0
   },
   {
+    "name": "Cloth.desktop-opengl.sample_cloth",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "FullPbr.desktop-opengl.sample_full_pbr",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "ImageViewer.desktop-opengl.image_viewer",
     "result": "ok",
     "result_code": 0
   },
@@ -191,11 +196,6 @@
   },
   {
     "name": "ProceduralEffect.desktop-opengl.procedural_effect",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "ImageViewer.desktop-opengl.image_viewer",
     "result": "ok",
     "result_code": 0
   },
