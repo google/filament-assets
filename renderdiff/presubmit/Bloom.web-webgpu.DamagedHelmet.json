@@ -195,6 +195,9 @@
 "guardBand": {
 "enabled": false
 },
+"motionVectors": {
+"enabled": false
+},
 "stereoscopicOptions": {
 "enabled": false
 },

@@ -5,6 +5,11 @@
     "result_code": 0
   },
   {
+    "name": "PcssSpotLight.web-webgl.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "Bloom.web-webgl.DamagedHelmet",
     "result": "ok",
     "result_code": 0
