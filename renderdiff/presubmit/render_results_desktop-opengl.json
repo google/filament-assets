@@ -5,17 +5,22 @@
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-opengl.BoxTextured",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "PointLights.desktop-opengl.lucy",
     "result": "ok",
     "result_code": 0
   },
   {
+    "name": "PcssSpotLight.desktop-opengl.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "Bloom.desktop-opengl.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.desktop-opengl.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
@@ -35,17 +40,17 @@
     "result_code": 0
   },
   {
-    "name": "Transimssion.desktop-opengl.IridescentDishWithOlives",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "SSAO.desktop-opengl.lucy",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "MSAA.desktop-opengl.FlightHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.desktop-opengl.IridescentDishWithOlives",
     "result": "ok",
     "result_code": 0
   },
@@ -60,12 +65,17 @@
     "result_code": 0
   },
   {
+    "name": "HelloTriangle.desktop-opengl.hellotriangle",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "SSRMorphing.desktop-opengl.AnimatedMorphCube",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "HelloTriangle.desktop-opengl.hellotriangle",
+    "name": "QuantizedMesh.desktop-opengl.Duck",
     "result": "ok",
     "result_code": 0
   },
@@ -80,17 +90,12 @@
     "result_code": 0
   },
   {
-    "name": "QuantizedMesh.desktop-opengl.Duck",
+    "name": "RenderTarget.desktop-opengl.rendertarget",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "Suzanne.desktop-opengl.suzanne",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "RenderTarget.desktop-opengl.rendertarget",
     "result": "ok",
     "result_code": 0
   },
@@ -105,22 +110,22 @@
     "result_code": 0
   },
   {
-    "name": "Morphing.desktop-opengl.hellomorphing",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "SkinningBuffer.desktop-opengl.helloskinningbuffer",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "HelloSkinning.desktop-opengl.helloskinning",
+    "name": "Morphing.desktop-opengl.hellomorphing",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "UvMorphing.desktop-opengl.hellouvmorphing",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "HelloSkinning.desktop-opengl.helloskinning",
     "result": "ok",
     "result_code": 0
   },
@@ -160,27 +165,17 @@
     "result_code": 0
   },
   {
-    "name": "ViewTest.desktop-opengl.viewtest",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "TexturedQuad.desktop-opengl.texturedquad",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "Cloth.desktop-opengl.sample_cloth",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "FullPbr.desktop-opengl.sample_full_pbr",
+    "name": "ViewTest.desktop-opengl.viewtest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "ImageViewer.desktop-opengl.image_viewer",
+    "name": "FullPbr.desktop-opengl.sample_full_pbr",
     "result": "ok",
     "result_code": 0
   },
@@ -195,7 +190,17 @@
     "result_code": 0
   },
   {
+    "name": "TexturedQuad.desktop-opengl.texturedquad",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "ProceduralEffect.desktop-opengl.procedural_effect",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "ImageViewer.desktop-opengl.image_viewer",
     "result": "ok",
     "result_code": 0
   },
