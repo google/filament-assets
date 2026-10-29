@@ -1,10 +1,5 @@
 [
   {
-    "name": "MSAA.desktop-vulkan.BoxTextured",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "MSAA.desktop-vulkan.Box",
     "result": "ok",
     "result_code": 0
@@ -16,6 +11,16 @@
   },
   {
     "name": "Bloom.desktop-vulkan.DamagedHelmet",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "PcssSpotLight.desktop-vulkan.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "MSAA.desktop-vulkan.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
@@ -35,12 +40,12 @@
     "result_code": 0
   },
   {
-    "name": "Transimssion.desktop-vulkan.IridescentDishWithOlives",
+    "name": "Transimssion.desktop-vulkan.TransmissionRoughnessTest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Transimssion.desktop-vulkan.TransmissionRoughnessTest",
+    "name": "Transimssion.desktop-vulkan.IridescentDishWithOlives",
     "result": "ok",
     "result_code": 0
   },
@@ -65,17 +70,17 @@
     "result_code": 0
   },
   {
-    "name": "SSRMorphing.desktop-vulkan.AnimatedMorphCube",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "QuantizedMesh.desktop-vulkan.Duck",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "HelloPBR.desktop-vulkan.hellopbr",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSRMorphing.desktop-vulkan.AnimatedMorphCube",
     "result": "ok",
     "result_code": 0
   },
@@ -90,12 +95,12 @@
     "result_code": 0
   },
   {
-    "name": "RenderTarget.desktop-vulkan.rendertarget",
+    "name": "Shadowtest.desktop-vulkan.shadowtest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Shadowtest.desktop-vulkan.shadowtest",
+    "name": "RenderTarget.desktop-vulkan.rendertarget",
     "result": "ok",
     "result_code": 0
   },
@@ -110,17 +115,17 @@
     "result_code": 0
   },
   {
+    "name": "Lightbulb.desktop-vulkan.lightbulb",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "Morphing.desktop-vulkan.hellomorphing",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "UvMorphing.desktop-vulkan.hellouvmorphing",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "Lightbulb.desktop-vulkan.lightbulb",
     "result": "ok",
     "result_code": 0
   },
@@ -145,12 +150,12 @@
     "result_code": 0
   },
   {
-    "name": "NormalMap.desktop-vulkan.sample_normal_map",
+    "name": "Cloth.desktop-vulkan.sample_cloth",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Cloth.desktop-vulkan.sample_cloth",
+    "name": "NormalMap.desktop-vulkan.sample_normal_map",
     "result": "ok",
     "result_code": 0
   },
@@ -170,22 +175,17 @@
     "result_code": 0
   },
   {
-    "name": "TexturedQuad.desktop-vulkan.texturedquad",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "ImageViewer.desktop-vulkan.image_viewer",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "VertexBufferLayout.desktop-vulkan.vbotest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "HybridInstancing.desktop-vulkan.hybrid_instancing",
+    "name": "TexturedQuad.desktop-vulkan.texturedquad",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "ProceduralEffect.desktop-vulkan.procedural_effect",
     "result": "ok",
     "result_code": 0
   },
@@ -195,7 +195,12 @@
     "result_code": 0
   },
   {
-    "name": "ProceduralEffect.desktop-vulkan.procedural_effect",
+    "name": "ImageViewer.desktop-vulkan.image_viewer",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "HybridInstancing.desktop-vulkan.hybrid_instancing",
     "result": "ok",
     "result_code": 0
   },
