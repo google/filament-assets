@@ -40,12 +40,12 @@
     "result_code": 0
   },
   {
-    "name": "SSAO.desktop-opengl.lucy",
+    "name": "MSAA.desktop-opengl.FlightHelmet",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-opengl.FlightHelmet",
+    "name": "SSAO.desktop-opengl.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -65,17 +65,17 @@
     "result_code": 0
   },
   {
-    "name": "HelloTriangle.desktop-opengl.hellotriangle",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "SSRMorphing.desktop-opengl.AnimatedMorphCube",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "QuantizedMesh.desktop-opengl.Duck",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "HelloTriangle.desktop-opengl.hellotriangle",
     "result": "ok",
     "result_code": 0
   },
@@ -95,12 +95,12 @@
     "result_code": 0
   },
   {
-    "name": "Suzanne.desktop-opengl.suzanne",
+    "name": "Shadowtest.desktop-opengl.shadowtest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "Shadowtest.desktop-opengl.shadowtest",
+    "name": "Suzanne.desktop-opengl.suzanne",
     "result": "ok",
     "result_code": 0
   },
@@ -120,12 +120,12 @@
     "result_code": 0
   },
   {
-    "name": "UvMorphing.desktop-opengl.hellouvmorphing",
+    "name": "HelloSkinning.desktop-opengl.helloskinning",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "HelloSkinning.desktop-opengl.helloskinning",
+    "name": "UvMorphing.desktop-opengl.hellouvmorphing",
     "result": "ok",
     "result_code": 0
   },
@@ -155,12 +155,12 @@
     "result_code": 0
   },
   {
-    "name": "HybridInstancing.desktop-opengl.hybrid_instancing",
+    "name": "FullPbr.desktop-opengl.sample_full_pbr",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "StrobeColor.desktop-opengl.strobecolor",
+    "name": "HybridInstancing.desktop-opengl.hybrid_instancing",
     "result": "ok",
     "result_code": 0
   },
@@ -170,22 +170,27 @@
     "result_code": 0
   },
   {
+    "name": "StrobeColor.desktop-opengl.strobecolor",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "ViewTest.desktop-opengl.viewtest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "FullPbr.desktop-opengl.sample_full_pbr",
+    "name": "VertexBufferLayout.desktop-opengl.vbotest",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "ImageViewer.desktop-opengl.image_viewer",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "DynamicGeometry.desktop-opengl.animation",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "VertexBufferLayout.desktop-opengl.vbotest",
     "result": "ok",
     "result_code": 0
   },
@@ -196,11 +201,6 @@
   },
   {
     "name": "ProceduralEffect.desktop-opengl.procedural_effect",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "ImageViewer.desktop-opengl.image_viewer",
     "result": "ok",
     "result_code": 0
   },

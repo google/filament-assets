@@ -1,16 +1,6 @@
 [
   {
-    "name": "PointLights.desktop-webgpu.lucy",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "Bloom.desktop-webgpu.DamagedHelmet",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "PcssSpotLight.desktop-webgpu.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -20,7 +10,12 @@
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-webgpu.BoxTextured",
+    "name": "PointLights.desktop-webgpu.lucy",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "PcssSpotLight.desktop-webgpu.lucy",
     "result": "ok",
     "result_code": 0
   },
@@ -30,17 +25,7 @@
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-webgpu.FlightHelmet",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "Transimssion.desktop-webgpu.TransmissionRoughnessTest",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "Skinning.desktop-webgpu.Fox",
+    "name": "MSAA.desktop-webgpu.BoxTextured",
     "result": "ok",
     "result_code": 0
   },
@@ -50,12 +35,7 @@
     "result_code": 0
   },
   {
-    "name": "Transimssion.desktop-webgpu.IridescentDishWithOlives",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "SSRSkinning.desktop-webgpu.Fox",
+    "name": "MSAA.desktop-webgpu.FlightHelmet",
     "result": "ok",
     "result_code": 0
   },
@@ -65,7 +45,32 @@
     "result_code": 0
   },
   {
+    "name": "Skinning.desktop-webgpu.Fox",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "SSRSkinning.desktop-webgpu.Fox",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.desktop-webgpu.TransmissionRoughnessTest",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "Transimssion.desktop-webgpu.IridescentDishWithOlives",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "HelloTriangle.desktop-webgpu.hellotriangle",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "QuantizedMesh.desktop-webgpu.Duck",
     "result": "ok",
     "result_code": 0
   },
@@ -80,11 +85,6 @@
     "result_code": 0
   },
   {
-    "name": "SSRMorphing.desktop-webgpu.AnimatedMorphCube",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "Shadowtest.desktop-webgpu.shadowtest",
     "result": "ok",
     "result_code": 0
@@ -95,7 +95,7 @@
     "result_code": 0
   },
   {
-    "name": "SSR.desktop-webgpu.DamagedHelmet",
+    "name": "SSRMorphing.desktop-webgpu.AnimatedMorphCube",
     "result": "ok",
     "result_code": 0
   },
@@ -110,12 +110,12 @@
     "result_code": 0
   },
   {
-    "name": "QuantizedMesh.desktop-webgpu.Duck",
+    "name": "SkinningBuffer.desktop-webgpu.helloskinningbuffer",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "SkinningBuffer.desktop-webgpu.helloskinningbuffer",
+    "name": "SSR.desktop-webgpu.DamagedHelmet",
     "result": "ok",
     "result_code": 0
   },
@@ -140,6 +140,11 @@
     "result_code": 0
   },
   {
+    "name": "NormalMap.desktop-webgpu.sample_normal_map",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
     "name": "FullPbr.desktop-webgpu.sample_full_pbr",
     "result": "ok",
     "result_code": 0
@@ -150,12 +155,12 @@
     "result_code": 0
   },
   {
-    "name": "NormalMap.desktop-webgpu.sample_normal_map",
+    "name": "HybridInstancing.desktop-webgpu.hybrid_instancing",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "HybridInstancing.desktop-webgpu.hybrid_instancing",
+    "name": "ImageViewer.desktop-webgpu.image_viewer",
     "result": "ok",
     "result_code": 0
   },
@@ -170,22 +175,17 @@
     "result_code": 0
   },
   {
-    "name": "TexturedQuad.desktop-webgpu.texturedquad",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "ViewTest.desktop-webgpu.viewtest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "VertexBufferLayout.desktop-webgpu.vbotest",
+    "name": "TexturedQuad.desktop-webgpu.texturedquad",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "ImageViewer.desktop-webgpu.image_viewer",
+    "name": "VertexBufferLayout.desktop-webgpu.vbotest",
     "result": "ok",
     "result_code": 0
   },
