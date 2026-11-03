@@ -75,12 +75,12 @@
     "result_code": 0
   },
   {
-    "name": "SSRMorphing.desktop-vulkan.AnimatedMorphCube",
+    "name": "HelloPBR.desktop-vulkan.hellopbr",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "HelloPBR.desktop-vulkan.hellopbr",
+    "name": "SSRMorphing.desktop-vulkan.AnimatedMorphCube",
     "result": "ok",
     "result_code": 0
   },
@@ -115,22 +115,22 @@
     "result_code": 0
   },
   {
-    "name": "Morphing.desktop-vulkan.hellomorphing",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "Lightbulb.desktop-vulkan.lightbulb",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "HelloSkinning.desktop-vulkan.helloskinning",
+    "name": "Morphing.desktop-vulkan.hellomorphing",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "UvMorphing.desktop-vulkan.hellouvmorphing",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "HelloSkinning.desktop-vulkan.helloskinning",
     "result": "ok",
     "result_code": 0
   },
@@ -145,12 +145,12 @@
     "result_code": 0
   },
   {
-    "name": "Cloth.desktop-vulkan.sample_cloth",
+    "name": "MaterialSandbox.desktop-vulkan.material_sandbox",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "MaterialSandbox.desktop-vulkan.material_sandbox",
+    "name": "Cloth.desktop-vulkan.sample_cloth",
     "result": "ok",
     "result_code": 0
   },
@@ -180,22 +180,22 @@
     "result_code": 0
   },
   {
-    "name": "ImageViewer.desktop-vulkan.image_viewer",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
     "name": "VertexBufferLayout.desktop-vulkan.vbotest",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "DynamicGeometry.desktop-vulkan.animation",
+    "name": "ImageViewer.desktop-vulkan.image_viewer",
     "result": "ok",
     "result_code": 0
   },
   {
     "name": "ProceduralEffect.desktop-vulkan.procedural_effect",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "DynamicGeometry.desktop-vulkan.animation",
     "result": "ok",
     "result_code": 0
   },
