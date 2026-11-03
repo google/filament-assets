@@ -40,12 +40,12 @@
     "result_code": 0
   },
   {
-    "name": "MSAA.desktop-opengl.FlightHelmet",
+    "name": "SSAO.desktop-opengl.lucy",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "SSAO.desktop-opengl.lucy",
+    "name": "MSAA.desktop-opengl.FlightHelmet",
     "result": "ok",
     "result_code": 0
   },
@@ -70,12 +70,12 @@
     "result_code": 0
   },
   {
-    "name": "QuantizedMesh.desktop-opengl.Duck",
+    "name": "HelloTriangle.desktop-opengl.hellotriangle",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "HelloTriangle.desktop-opengl.hellotriangle",
+    "name": "QuantizedMesh.desktop-opengl.Duck",
     "result": "ok",
     "result_code": 0
   },
@@ -120,12 +120,12 @@
     "result_code": 0
   },
   {
-    "name": "HelloSkinning.desktop-opengl.helloskinning",
+    "name": "UvMorphing.desktop-opengl.hellouvmorphing",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "UvMorphing.desktop-opengl.hellouvmorphing",
+    "name": "HelloSkinning.desktop-opengl.helloskinning",
     "result": "ok",
     "result_code": 0
   },
@@ -155,7 +155,12 @@
     "result_code": 0
   },
   {
-    "name": "FullPbr.desktop-opengl.sample_full_pbr",
+    "name": "Cloth.desktop-opengl.sample_cloth",
+    "result": "ok",
+    "result_code": 0
+  },
+  {
+    "name": "StrobeColor.desktop-opengl.strobecolor",
     "result": "ok",
     "result_code": 0
   },
@@ -165,12 +170,7 @@
     "result_code": 0
   },
   {
-    "name": "Cloth.desktop-opengl.sample_cloth",
-    "result": "ok",
-    "result_code": 0
-  },
-  {
-    "name": "StrobeColor.desktop-opengl.strobecolor",
+    "name": "FullPbr.desktop-opengl.sample_full_pbr",
     "result": "ok",
     "result_code": 0
   },
@@ -195,12 +195,12 @@
     "result_code": 0
   },
   {
-    "name": "TexturedQuad.desktop-opengl.texturedquad",
+    "name": "ProceduralEffect.desktop-opengl.procedural_effect",
     "result": "ok",
     "result_code": 0
   },
   {
-    "name": "ProceduralEffect.desktop-opengl.procedural_effect",
+    "name": "TexturedQuad.desktop-opengl.texturedquad",
     "result": "ok",
     "result_code": 0
   },
