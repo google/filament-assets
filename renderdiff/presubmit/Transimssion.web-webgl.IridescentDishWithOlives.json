@@ -201,7 +201,8 @@
 "stereoscopicOptions": {
 "enabled": false
 },
-"postProcessingEnabled": true
+"postProcessingEnabled": true,
+"tighterShadowCasterCulling": false
 },
 "material": {},
 "lighting": {
